@@ -14,7 +14,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="standardcircle.svg">
   <defs
      id="defs2" />
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="531.94238"
-     inkscape:cy="842.00462"
+     inkscape:zoom="2"
+     inkscape:cx="378.65989"
+     inkscape:cy="720.99943"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2880"
-     inkscape:window-height="1526"
-     inkscape:window-x="2869"
-     inkscape:window-y="151"
+     inkscape:window-height="1721"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +59,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
     <g
-       id="g3716">
+       id="g3716"
+       transform="translate(-1.5000045)">
       <path
          sodipodi:nodetypes="cssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssccsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssscccssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssccsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssscc"
          inkscape:connector-curvature="0"
@@ -70,58 +71,59 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="50.046215"
+       x="49.07933"
        y="21.324842"
        id="text3720"><tspan
          sodipodi:role="line"
-         x="50.046215"
+         x="49.07933"
          y="21.324842"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.26458332"
          id="tspan3738">Standard Circle for Laparoscopy Training</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="71.561417"
-       y="74.832207"
+       x="70.106209"
+       y="75.096786"
        id="text3724"><tspan
          sodipodi:role="line"
          id="tspan3722"
-         x="71.561417"
-         y="74.832207"
+         x="70.106209"
+         y="75.096786"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.26458332">5cm</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="58.09103"
+       x="55.974365"
        y="79.883606"
        id="text3728"><tspan
          sodipodi:role="line"
          id="tspan3726"
-         x="58.09103"
+         x="55.974365"
          y="79.883606"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.26458332">5.6cm</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-       x="91.700623"
-       y="-7.2075348"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.628597"
+       y="108.51688"
        id="text3732"
-       transform="rotate(38.223966)"><tspan
+       transform="rotate(-0.20054307)"><tspan
          sodipodi:role="line"
          id="tspan3730"
-         x="91.700623"
-         y="-7.2075348"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332;fill:#0000ff;">CAMES RH 2019</tspan></text>
+         x="53.628597"
+         y="108.51688"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.26458332">Copenhagen Academy for Medical Education and Simulation</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="45.181915"
-       y="106.73082"
-       id="text3744"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="80.618767"
+       y="27.461653"
+       id="text3732-0"
+       transform="rotate(-0.20054312)"><tspan
          sodipodi:role="line"
-         id="tspan3742"
-         x="45.181915"
-         y="106.73082"
-         style="stroke-width:0.26458332;font-size:3.52777778px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Rikke</tspan></text>
+         id="tspan3730-2"
+         x="80.618767"
+         y="27.461653"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.26458332">CAMES</tspan></text>
   </g>
 </svg>
